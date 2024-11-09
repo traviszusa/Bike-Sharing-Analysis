@@ -1,22 +1,22 @@
 # Bike Sharing Data Analysis
 
 ## Deskripsi
-Proyek ini bertujuan untuk melakukan analisis dataset bike sharing dengan proses Data Wrangling, EDA (Exploratory Data Analysis), dan Data Visualisation yang hasil akhirnya terdapat pembuatan dashboard dengan Streamlit. Hasil analisis dapat diakses melalui link berikut, https://bike-sharing-analysis-danendra.streamlit.app/.
+Proyek ini bertujuan untuk melakukan analisis dataset bike sharing dengan proses Data Wrangling, EDA (Exploratory Data Analysis), dan Data Visualisation yang hasil akhirnya terdapat pembuatan dashboard dengan Streamlit. Hasil analisis dapat diakses melalui link berikut, https://bike-sharing-travis.streamlit.app.
 
 ## Cara Instalasi
 
-1. Clone repository ini ke komputer lokal Anda:
+1. Clone repository
     ```bash
     git clone https://github.com/traviszusa/Bike-Sharing-Analysis.git
     ```
 
-2. Instal library yang dibutuhkan:
+2. Install library
     ```bash
     pip install -r requirements.txt
     ```
 
 ## Cara Menjalankan
-Untuk menjalankan aplikasi, Anda bisa menggunakan salah satu dari dua cara berikut:
+Untuk menjalankan aplikasi gunakan salah satu dari dua cara berikut,
 
 1. Dari root direktori proyek:
     ```bash
